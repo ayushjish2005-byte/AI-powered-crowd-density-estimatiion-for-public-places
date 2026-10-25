@@ -82,6 +82,7 @@ An inexpensive, real-time crowd monitoring system that estimates crowd density f
 
 * **Arduino Libraries:** `Wire`, `LiquidCrystal_I2C`, and the ESP32 board package
 
+<img width="1266" height="576" alt="image" src="https://github.com/user-attachments/assets/b9219cb6-6fdd-49c8-a327-eaa993444072" />
 
 
 ---
