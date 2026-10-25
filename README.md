@@ -64,6 +64,8 @@ An inexpensive, real-time crowd monitoring system that estimates crowd density f
 | **Assembly** | Solderless breadboard, jumper wires, USB data cable
 
  |
+ <img width="1086" height="1448" alt="Clean Electronics Prototype Setup" src="https://github.com/user-attachments/assets/b61fdf69-841f-4257-9a9f-3e0dd85485e2" />
+
 
 ---
 
